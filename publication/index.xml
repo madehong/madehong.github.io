@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Dehong Ma&#39;s Homepage</title>
+    <link>https://madehong.github.io/publication/</link>
+    <description>Recent content in Publications on Dehong Ma&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Dehong Ma </copyright>
+    <lastBuildDate>Sun, 10 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Exploring Sequence-to-Sequence Learning in Aspect Term Extraction</title>
+      <link>https://madehong.github.io/publication/seq2seq4ate/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://madehong.github.io/publication/seq2seq4ate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Target Extraction via Feature-Enriched Neural Networks Model</title>
+      <link>https://madehong.github.io/publication/tefnn/</link>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://madehong.github.io/publication/tefnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cascading Multiway Attentions for Document-level Sentiment Classification</title>
+      <link>https://madehong.github.io/publication/cma/</link>
+      <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://madehong.github.io/publication/cma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Learning for Targeted Sentiment Classification</title>
+      <link>https://madehong.github.io/publication/jtbs/</link>
+      <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://madehong.github.io/publication/jtbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Attention Networks for Aspect-Level Sentiment Classification</title>
+      <link>https://madehong.github.io/publication/ian/</link>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://madehong.github.io/publication/ian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
